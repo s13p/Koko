@@ -306,7 +306,7 @@ body {
 }
 
 a {
-  color: #33a145;
+  color: #23ac4a;
   text-decoration: none;
   outline: none;
   -webkit-font-smoothing: antialiased;
@@ -327,7 +327,7 @@ a:hover,
 a:visited,
 a:active,
 a:focus {
-  color: #33a145;
+  color: #23ac4a;
   text-decoration: none;
   outline: none;
   font-weight: 600;
@@ -364,7 +364,7 @@ p {
 
 p a,
 p a:hover {
-  color: #33a145;
+  color: #23ac4a;
   text-decoration: none;
   outline: none;
   font-weight: 600;
@@ -382,12 +382,12 @@ strong {
 }
 
 ::-moz-selection {
-  background: #33a145;
+  background: #23ac4a;
   color: #fff;
 }
 
 ::selection {
-  background: #33a145;
+  background: #23ac4a;
   color: #fff;
 }
 
@@ -1414,7 +1414,7 @@ strong {
 }
 
 .right-element span {
-  color: #33a145;
+  color: #23ac4a;
   padding-right: 10px;
   font-size: 20px;
   position: relative;
@@ -1815,7 +1815,7 @@ input:focus.subscribe-email:-moz-placeholder {
   position: absolute;
   left: 37px;
   bottom: 42px;
-  color: #33a145;
+  color: #23ac4a;
   font-size: 20px;
 }
 
@@ -1846,7 +1846,7 @@ h2.section-heading-home {
   text-transform: uppercase;
   text-align: left;
   letter-spacing: 0.05em;
-  color: #33a145;
+  color: #23ac4a;
   margin: 0;
   padding: 0;
   z-index: 10;
@@ -1877,7 +1877,7 @@ h2.section-heading-home span {
   padding-right: 75px;
   margin-right: 25px;
   line-height: 1;
-  color: #33a145;
+  color: #23ac4a;
 }
 
 @media all and (min-width: 1920px) {
@@ -1910,7 +1910,7 @@ h2.section-heading-home span:before {
   width: 50px;
   height: 0;
   margin-top: -1px;
-  border-top: 1px solid #33a145;
+  border-top: 1px solid #23ac4a;
 }
 
 @media all and (min-width: 1920px) {
@@ -2152,7 +2152,7 @@ li {
 .menu-mobile li ul a {
   position: relative;
   white-space: nowrap;
-  background: #33a145;
+  background: #23ac4a;
   height: 32px;
 }
 
@@ -2600,7 +2600,7 @@ li {
   left: 0;
   width: 100%;
   height: 1px;
-  background: #33a145;
+  background: #23ac4a;
   -webkit-transform-origin: right center;
   -moz-transform-origin: right center;
   -ms-transform-origin: right center;
@@ -2636,7 +2636,7 @@ li {
   display: inline-block;
   text-transform: uppercase;
   text-align: left;
-  color: #33a145;
+  color: #23ac4a;
   background: none;
   padding: 2px 30px 2px 0;
   -webkit-transition: all 0.5s ease;
@@ -2667,7 +2667,7 @@ li {
   right: -19px;
   width: 25px;
   height: 1px;
-  background: #33a145;
+  background: #23ac4a;
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   -ms-transition: all 0.5s ease;
@@ -2786,7 +2786,7 @@ li {
 }
 
 .expand span {
-  color: #33a145;
+  color: #23ac4a;
 }
 
 h2 {
@@ -2822,7 +2822,7 @@ h2 {
   font-style: normal;
   font-weight: 500;
   text-align: left;
-  color: #33a145;
+  color: #23ac4a;
 }
 
 .icon {
@@ -2877,7 +2877,7 @@ h2 {
   font-family: 'Raleway', sans-serif;
   font-size: 12px;
   font-weight: normal;
-  color: #33a145;
+  color: #23ac4a;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   font-weight: 700;
@@ -3010,7 +3010,7 @@ textarea {
   font-size: 9px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #33a145;
+  color: #23ac4a;
   margin: 0 0 0 5px;
   padding: 0;
   letter-spacing: 0.15em;
